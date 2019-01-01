@@ -2,6 +2,8 @@ body{
   background: #232323;
   transition: all 0.4s;
   -moz-transition: all 0.4s;
+  font-family: 'Fira Sans', sans-serif;
+
 }
 .act{
   background-color: "green";
